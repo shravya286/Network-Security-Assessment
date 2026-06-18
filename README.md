@@ -2,6 +2,9 @@
 ## Overview
 
 A cybersecurity-focused web application that performs network reconnaissance using Nmap, identifies open ports, evaluates security risks, stores assessment records in PostgreSQL and displays results through an interactive dashboard.
+## Running the Project
+
+See RUN_LOCALLY.md for complete setup and execution instructions.
 
 ## Features
 
