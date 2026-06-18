@@ -1,7 +1,7 @@
 # Network-Security-Assessment
 
-**🎥 Demo Video, Report & Documentation:**
-drive.google.com/file/d/1yfDP9ggczQLdnce_2z4xowPD-De3RHG_/view?usp=drive_link
+**🎥 Demo Video & Documentation:**
+https://drive.google.com/file/d/1yfDP9ggczQLdnce_2z4xowPD-De3RHG_/view?usp=drive_link
 
 ## Overview
 
