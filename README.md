@@ -1,4 +1,8 @@
 # Network-Security-Assessment
+
+**🎥 Demo Video, Report & Documentation:**
+drive.google.com/file/d/1yfDP9ggczQLdnce_2z4xowPD-De3RHG_/view?usp=drive_link
+
 ## Overview
 
 A cybersecurity-focused web application that performs network reconnaissance using Nmap, identifies open ports, evaluates security risks, stores assessment records in PostgreSQL and displays results through an interactive dashboard.
